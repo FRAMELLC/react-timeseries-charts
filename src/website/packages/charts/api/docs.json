@@ -2009,6 +2009,10 @@
         "type": {
           "name": "shape",
           "value": {
+            "label": {
+              "name": "object",
+              "required": false
+            },
             "line": {
               "name": "object",
               "required": false
