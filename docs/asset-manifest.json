@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-timeseries-charts/static/css/main.85795f49.css",
-    "main.js": "/react-timeseries-charts/static/js/main.8fb0ef96.js",
+    "main.css": "/react-timeseries-charts/static/css/main.4166bd36.css",
+    "main.js": "/react-timeseries-charts/static/js/main.cde57c9d.js",
     "static/media/logo.png": "/react-timeseries-charts/static/media/logo.6b29d50d54a7a39da624.png",
     "static/media/continents_thumbnail.png": "/react-timeseries-charts/static/media/continents_thumbnail.800a159ed90ce55f1370.png",
     "static/media/baselines_thumbnail.png": "/react-timeseries-charts/static/media/baselines_thumbnail.d16e7589621685fa9e6c.png",
@@ -37,11 +37,11 @@
     "static/media/cycling_docs.md": "/react-timeseries-charts/static/media/cycling_docs.afab2f2292f7f767d884.md",
     "static/media/climate_docs.md": "/react-timeseries-charts/static/media/climate_docs.667f81135e6aa36fe6e9.md",
     "static/media/stockchart_docs.md": "/react-timeseries-charts/static/media/stockchart_docs.31d6cfe0d16ae931b73c.md",
-    "main.85795f49.css.map": "/react-timeseries-charts/static/css/main.85795f49.css.map",
-    "main.8fb0ef96.js.map": "/react-timeseries-charts/static/js/main.8fb0ef96.js.map"
+    "main.4166bd36.css.map": "/react-timeseries-charts/static/css/main.4166bd36.css.map",
+    "main.cde57c9d.js.map": "/react-timeseries-charts/static/js/main.cde57c9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.85795f49.css",
-    "static/js/main.8fb0ef96.js"
+    "static/css/main.4166bd36.css",
+    "static/js/main.cde57c9d.js"
   ]
 }
